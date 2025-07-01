@@ -1,16 +1,13 @@
 ---
 layout: /src/layouts/MarkdownPostLayout.astro
 title: NeonMint Template Documentation
-author: Fernando López
+author: Sarah THEOULLE
 description: "NeonMint is a modern, minimalist template crafted for developers and digital creatives. Its dark-themed layout with mint green highlights delivers a sleek, elegant, and functional visual experience—perfect for portfolios, dashboards, or tech landing pages."
 image:
   url: "/images/projects/neonmint.webp"
   alt: "Screenshot of NeonMint, a modern and minimalist web template built with Astro and TailwindCSS. It displays various sections such as blog, portfolio, work experience, and Markdown guide, in both light and dark modes with mint green accents."
 pubDate: 2025-04-04
-tags:
-  [
-    "documentation", "portfolio", "web-development", "astro", "tailwindcss"
-  ]
+tags: ["documentation", "portfolio", "web-development", "astro", "tailwindcss"]
 languages: ["astro", "javascript", "tailwind", "markdown"]
 ---
 
@@ -85,16 +82,19 @@ languages: ["astro", "javascript", "tailwind", "markdown"]
 ## ✨ Key Features
 
 1. **🚀 Performance Optimized**
+
    - Static site generation
    - Partial hydration with Preact
    - Optimized images and assets
 
 2. **💻 Modern Development Experience**
+
    - TypeScript support
    - Hot module replacement
    - ESLint integration
 
 3. **🔍 SEO & Analytics**
+
    - Built-in sitemap generation
    - RSS feed support
    - Vercel Speed Insights
@@ -108,16 +108,19 @@ languages: ["astro", "javascript", "tailwind", "markdown"]
 ## 🚀 Getting Started
 
 1. **📦 Installation**
+
    ```bash
    npm install
    ```
 
 2. **⚡ Development**
+
    ```bash
    npm run dev
    ```
 
 3. **🏗️ Build**
+
    ```bash
    npm run build
    ```
@@ -145,23 +148,24 @@ Create new `.astro` files in the `src/pages` directory. The file name will deter
 
 To incorporate a new programming language or technological tool into the site's capsules, follow these steps:
 
-1. **🖼️ Add the SVG icon**: Place the SVG file of the language or tool in the `src/icons` folder.
+1.  **🖼️ Add the SVG icon**: Place the SVG file of the language or tool in the `src/icons` folder.
 
         > **💡 Recommendation**: For SVG icons, I recommend using [SVGL](https://svgl.app/), an excellent library of high-quality vectors that offers optimized icons for most popular languages and technologies.
 
-2. **📝 Register the language**: Open the `utils/languages.ts` file and add a new entry to the languages object following this format:
+2.  **📝 Register the language**: Open the `utils/languages.ts` file and add a new entry to the languages object following this format:
 
-   ```typescript
-   html: {
-       name: "HTML 5",
-       iconName: "html",
-   },
-   ```
+    ```typescript
+    html: {
+        name: "HTML 5",
+        iconName: "html",
+    },
+    ```
 
-   Where:
-   - `html`: Is the unique identifier for the language
-   - `name`: Is the name that will be displayed visibly in the interface
-   - `iconName`: Is the name of the SVG file without the extension (must match exactly with the file name in `src/icons`)
+    Where:
+
+    - `html`: Is the unique identifier for the language
+    - `name`: Is the name that will be displayed visibly in the interface
+    - `iconName`: Is the name of the SVG file without the extension (must match exactly with the file name in `src/icons`)
 
 Once these steps are completed, the new language or technology will be available for use in the site's capsules. You can select it when creating or editing projects or posts, and the corresponding icon will be displayed correctly in the interface.
 
@@ -194,4 +198,3 @@ The site is configured for deployment on Vercel, but can be deployed to any stat
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-

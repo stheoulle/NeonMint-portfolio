@@ -101,14 +101,14 @@
 
    ### 🚀**Astro Installation**
    ```bash
-   npm create astro@latest -- --template EFEELE/neonmint
+   npm create astro@latest -- --template Light/neonmint
    ```
    or
    ### 🔧**Manual Installation**
    
    #### Clone Repository
    ```bash
-   git clone https://github.com/EFEELE/NeonMint.git
+   git clone https://github.com/Light/NeonMint.git
    ```
    #### Install Dependencies
    ```bash

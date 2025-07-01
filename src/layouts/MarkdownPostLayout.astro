@@ -11,7 +11,7 @@ import Share from "../components/ui/Share.astro";
 const { frontmatter } = Astro.props;
 const currentUrl = `${Astro.site}${Astro.url.pathname}`;
 const tweetText = encodeURIComponent(
-  `"${frontmatter.title}" - by ${frontmatter.author} | EFEELE`
+  `"${frontmatter.title}" - by ${frontmatter.author} | Light`
 );
 import Heading from "../components/ui/Heading.astro";
 ---
@@ -94,9 +94,9 @@ import Heading from "../components/ui/Heading.astro";
         >
           <div class="white flex items-center gap-4">
             <div
-              aria-label="Photo of Fernando Aldair López Ponce (EFEELE) for the blog"
+              aria-label="Photo of Fernando Aldair López Ponce (Light) for the blog"
               class="size-10 bg-cover bg-center rounded-full drop-shadow-lg"
-              style="background-image: url(/images/efeeleprofile.webp);"
+              style="background-image: url(/images/Lightprofile.webp);"
             >
             </div>
             <a
@@ -134,7 +134,7 @@ import Heading from "../components/ui/Heading.astro";
   >
     <div class="px-8">
       <NavigationArticles />
-      <hr class="text-mint-300/50" />
+      <hr class="text-purple-300/50" />
     </div>
     <div class="px-8 max-sm:px-4">
       <ListPosts currentPostUrl={Astro.url.pathname} />

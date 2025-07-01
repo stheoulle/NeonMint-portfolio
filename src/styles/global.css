@@ -50,18 +50,18 @@
 }
 
 ::selection {
-	@apply text-white bg-mint-500;
+	@apply text-white bg-purple-500;
 	
   }
 *::-webkit-scrollbar-thumb{
 	border-radius: 20px;
 }
 .dark *{
-	scrollbar-color: #6ce9b7 #012d22;
+	scrollbar-color: #cc6ce9 #012d22;
 	scrollbar-width: thin;
 }
  *{
-	scrollbar-color: #6ce9b7 #d0fbe5;
+	scrollbar-color: #da6ce9 #f9d0fb;
 	scrollbar-width: thin;
 	box-sizing: border-box;
 }
@@ -110,7 +110,7 @@ a.inline-block.leading-5.pl-12{
 }
 
 .markdown a {
-	@apply text-xl max-md:text-lg font-semibold dark:text-riptide-300! text-mint-500! underline hover:text-riptide-400! transition-all;
+	@apply text-xl max-md:text-lg font-semibold dark:text-purple-300! text-purple-500! underline hover:text-purple-400! transition-all;
 }
 
 .markdown ol{
@@ -128,7 +128,7 @@ a.inline-block.leading-5.pl-12{
 }
 
 .markdown hr {
-	@apply dark:text-mint-300/50 text-blacktext/30;
+	@apply dark:text-purple-300/50 text-blacktext/30;
 
 }
 
@@ -170,11 +170,11 @@ a.inline-block.leading-5.pl-12{
   }
   
   .task-list-item input[type="checkbox"] {
-	@apply w-5 h-5 accent-mint-300;
+	@apply w-5 h-5 accent-purple-300;
   }
   
   .task-list-item input[type="checkbox"]:checked + span {
-	@apply line-through text-mint-600;
+	@apply line-through text-purple-600;
   }
   
   .task-list-item span {

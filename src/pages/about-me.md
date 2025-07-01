@@ -1,22 +1,20 @@
 ---
 layout: /src/layouts/MarkdownAbout.astro
-title: "Fernando López | My Journey in Technology and Web Development 🚀| EFEELE"
-description: "Web developer, technology enthusiast, and event organizer. From my beginnings in development to creating communities and impactful projects, here I share my journey, experiences, and learnings. 🚀☕"
-author: "Fernando Lopez"
+title: "Sarah THEOULLE | My Journey in Technology and DevOps 🚀| Light"
+description: "DevOps engineer, technology enthusiast, and event organizer. From my beginnings in development to creating communities and impactful projects, here I share my journey, experiences, and learnings. 🚀☕"
+author: "Sarah THEOULLE"
 image:
-  url: "/images/efeeleprofile.webp"
-  alt: "Photo of Fernando Aldair López Ponce (EFEELE) for the blog"
+  url: "/images/Lightprofile.webp"
+  alt: "Photo of Sarah THEOULLE (Light) for the blog"
 ---
 
-I started developing my first commercial projects as a web developer in 2017. Although I've been passionate about technology for as long as I can remember. I discovered the internet at age 6, and along with it, I learned to use **Paint** 🎨 and play **Pinball** on a **Windows XP** computer that my cousins had. Years passed, and I discovered there was a cyber café near my house, so accompanied by my older brother, I spent a lot of time there, watching others play **Age of Empires** ⚔️. When I could, I also played on the computers and investigated how those games worked. But above all, I remember that while sitting there, I watched the owner, Alfredo, the good <a href="https://fred.cpp.mx/" target="_blank" rel="noopener noreferrer">Fred</a>, while he programmed and modeled game maps, or at least that's what I remember. That made me want to try doing the same. I found it incredible how so many things happened on his screen that, although I couldn't understand them, looked amazing. Without a doubt, he was my first influence to get into programming.
-
-When we got our first computer at home, around 2011, I spent all my time there, creating my own texture packs to integrate them into one of the games I played the most: **GTA SA**. For this, I learned to use **GIMP** and later **Photoshop**. I wanted to go further and started creating scenarios for the game, so that's when I learned 3D modeling. By then, I was already 12 years old, and I remember I had the intention of dedicating myself to creating video games 🎮. A couple of years later, knowing that programming is needed to create video games, I researched a bit and created my first website with **HTML 4** and **CSS3**. It was a static page, clearly not responsive, and its design and content were very poor, but I felt very proud seeing my page working online.
+Computers always fascinated me, and I remember being in awe of the idea of creating something from scratch. My journey in technology has been a mix of curiosity, learning, and a lot of experimentation. Here’s a bit about my story.
 
 ## My Beginnings in Programming 🖥️
 
-In 2014, I entered high school and decided to take the Programming Technician career. In the first semester, as an integral project, I knew I wanted to make a video game, so I committed to doing it. I learned to use **Unity**, delved deeper into **Blender**, and a bit into **C#**. It was an arduous process, as no one on my team knew how to program, but with their help, we all learned a bit more and managed to complete the project. We delivered a functional demo of a character in a scenario in our 3D _survival_ type game. It was at that moment that I discovered that making a video game is not easy at all and understood the magnitude of knowledge, time, and dedication needed.
+In 2018, I entered high school and decided to get computer and digital sciences as an option. This introduction to programming was my first contact with the world of technology. With the help of my teacher, I learned the basics of **Python** and **C**. We created small projects like mathematical representations and a simple game.
 
-I felt good about having achieved that small project, but gradually I fell more in love with web design and development. So, I started learning more about **HTML**, **CSS**, and **JavaScript**. I spent all my free time watching courses and practicing on fictional sites that I designed.
+the following year I chose Digital and Computer Sciences as my major and continued learning programming. I started creating small projects, such as a **Sudoku solver** and a **crypographic solver**. I also learned about **algorithms**, **data structures** and **networks**.
 
 ## The World of Robotics 🤖
 
@@ -75,7 +73,7 @@ I have tried to teach them this in the way I would have liked to learn it at the
 
 ### Educational Content on YouTube 📹
 
-Many of them were especially interested in frontend and wanted to better understand and master CSS. Therefore, I started creating small videos that I uploaded to my <a href="https://www.youtube.com/@efeeledev" target="_blank" rel="noopener noreferrer">YouTube channel</a> privately so they could consult them when needed.
+Many of them were especially interested in frontend and wanted to better understand and master CSS. Therefore, I started creating small videos that I uploaded to my <a href="https://www.youtube.com/@Lightdev" target="_blank" rel="noopener noreferrer">YouTube channel</a> privately so they could consult them when needed.
 
 In 2024, I recorded some <a href="https://www.frontendmentor.io/" target="_blank" rel="noopener noreferrer">FrontEndMentor</a> challenges with better quality and published them on my channel. Currently, I share these resources with people I know who are interested in the topic and want to learn by watching how it's put into practice.
 
@@ -106,4 +104,4 @@ Oh! And I'm an expert at preparing coffee. Seriously, whether it's to start the 
 
 I'm **Fernando Aldair López Ponce**, and I thank you for reading this.
 
-## Let's Create Amazing Things! 🚀 
+## Let's Create Amazing Things! 🚀

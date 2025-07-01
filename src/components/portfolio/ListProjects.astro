@@ -9,7 +9,7 @@ const allPosts = await Astro.glob("../../pages/portfolio/projects/*.md");
 allPosts.sort(
   (a, b) =>
     new Date(b.frontmatter.pubDate).getTime() -
-    new Date(a.frontmatter.pubDate).getTime(),
+    new Date(a.frontmatter.pubDate).getTime()
 );
 ---
 
@@ -27,15 +27,15 @@ allPosts.sort(
       class="z-2 text-center mx-auto text-lg max-xl:text-base max-w-2xl dark:text-gray-200 text-blacktext my-6 leading-6 font-medium"
     >
       I love <b
-        class="bg-linear-to-r from-riptide-500 to-mint-500 dark:from-riptide-300 dark:to-mint-200 text-transparent bg-clip-text"
+        class="bg-linear-to-r from-riptide-500 to-purple-500 dark:from-riptide-300 dark:to-purple-200 text-transparent bg-clip-text"
         >turning ideas into real projects.</b
       >
       <br /> Here I show you some of the <b
-        class="bg-linear-to-r from-riptide-500 to-mint-500 dark:from-riptide-300 dark:to-mint-200 text-transparent bg-clip-text"
+        class="bg-linear-to-r from-riptide-500 to-purple-500 dark:from-riptide-300 dark:to-purple-200 text-transparent bg-clip-text"
         >developments</b
       > I've worked on, applying technology, design, and lots of creativity.
       <b
-        class="bg-linear-to-r from-riptide-500 to-mint-500 dark:from-riptide-300 dark:to-mint-200 text-transparent bg-clip-text"
+        class="bg-linear-to-r from-riptide-500 to-purple-500 dark:from-riptide-300 dark:to-purple-200 text-transparent bg-clip-text"
         >Check them out!</b
       >
     </p>
@@ -65,7 +65,7 @@ allPosts.sort(
     class="absolute bottom-0 left-0 w-full flex justify-center text-center bg-linear-to-t from-[#FBFEFD] dark:from-[#0e0e10] from-55% to-transparent to-100% pb-30 pt-52"
   >
     <button
-      class="absolute font-bold cursor-pointer text-mint-400 dark:text-mint-100 hover:text-mint-500 dark:hover:text-mint-300 transition-all"
+      class="absolute font-bold cursor-pointer text-purple-400 dark:text-purple-100 hover:text-purple-500 dark:hover:text-purple-300 transition-all"
     >
       View More Projects...
     </button>

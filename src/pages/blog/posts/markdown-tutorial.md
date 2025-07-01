@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/MarkdownPostLayout.astro
 title: The Complete Markdown Guide
-author: Fernando López
+author: Sarah THEOULLE
 description: "A comprehensive guide to Markdown syntax, covering everything from basic formatting to advanced features. Learn how to create headers, lists, emphasis, and more with this essential markup language for content creation."
 image:
   url: "/images/posts/markdown.webp"
@@ -9,7 +9,11 @@ image:
 pubDate: 2025-04-05
 tags:
   [
-    "documentation", "tutorial", "web-development", "content-creation", "writing"
+    "documentation",
+    "tutorial",
+    "web-development",
+    "content-creation",
+    "writing",
   ]
 languages: ["markdown", "html", "css"]
 ---
@@ -22,25 +26,31 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 ```markdown
 # H1
+
 ## H2
+
 ### H3
+
 #### H4
+
 ##### H5
+
 ###### H6
 ```
 
 ### Emphasis
 
 ```markdown
-*Italic text* or _Italic text_
-**Bold text** or __Bold text__
-***Bold and italic*** or ___Bold and italic___
+_Italic text_ or _Italic text_
+**Bold text** or **Bold text**
+**_Bold and italic_** or **_Bold and italic_**
 ~~Strikethrough~~
 ```
 
 ### Lists
 
 #### Unordered Lists
+
 ```markdown
 - First item
 - Second item
@@ -50,6 +60,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 ```
 
 #### Ordered Lists
+
 ```markdown
 1. First item
 2. Second item
@@ -68,11 +79,13 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 ### Code
 
 #### Inline Code
+
 ```markdown
 Use `code` in your text
 ```
 
 #### Code Blocks
+
 ````markdown
 ```javascript
 const hello = "world";
@@ -84,7 +97,7 @@ console.log(hello);
 
 ```markdown
 > This is a blockquote
-> 
+>
 > It can span multiple lines
 ```
 
@@ -92,8 +105,10 @@ console.log(hello);
 
 ```markdown
 ---
-***
-___
+
+---
+
+---
 ```
 
 ## Extended Syntax
@@ -101,10 +116,10 @@ ___
 ### Tables
 
 ```markdown
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
 ```
 
 ### Task Lists
@@ -161,4 +176,4 @@ Here's a sentence with a footnote. [^1]
 
 Markdown is a powerful tool for creating well-formatted documents quickly and efficiently. Whether you're writing documentation, taking notes, or creating content for the web, Markdown provides a simple yet effective way to structure your text.
 
-Remember: The best way to learn Markdown is to practice! Try creating your own documents and experiment with different syntax elements. 
+Remember: The best way to learn Markdown is to practice! Try creating your own documents and experiment with different syntax elements.
