@@ -111,7 +111,7 @@ export const languages: Record<string, Language> = {
     iconName: "python",
   },
   yaml: {
-    name: "YAML",
+    name: "Yaml",
     iconName: "yaml",
   },
 };
