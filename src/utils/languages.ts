@@ -110,6 +110,10 @@ export const languages: Record<string, Language> = {
     name: "Python",
     iconName: "python",
   },
+  yaml: {
+    name: "YAML",
+    iconName: "yaml",
+  },
 };
 
 export const getLanguage = (lang: string): Language => {
