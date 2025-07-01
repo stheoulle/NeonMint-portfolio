@@ -14,94 +14,58 @@ Computers always fascinated me, and I remember being in awe of the idea of creat
 
 In 2018, I entered high school and decided to get computer and digital sciences as an option. This introduction to programming was my first contact with the world of technology. With the help of my teacher, I learned the basics of **Python** and **C**. We created small projects like mathematical representations and a simple game.
 
-the following year I chose Digital and Computer Sciences as my major and continued learning programming. I started creating small projects, such as a **Sudoku solver** and a **crypographic solver**. I also learned about **algorithms**, **data structures** and **networks**.
+The following year I chose Digital and Computer Sciences as my major and continued learning programming. I started creating small projects, such as a **Sudoku solver** and a **crypographic solver**. I also learned about **algorithms**, **data structures** and **networks**.
 
-## The World of Robotics 🤖
+## Deep Dive into the Low Levels 🤖
 
-In high school, a teacher and good friend, **Esteban Ángeles**, recruited me to belong to the school's robotics team, which competed in <a href="https://www.vexrobotics.com.mx/" target="_blank" rel="noopener noreferrer">VEX Robotics</a> tournaments. He saw me while I was designing a "3D spider robot" in **Autodesk Inventor**, so I was able to integrate more friends into the team. One of them was <a href="https://github.com/erikestr" target="_blank" rel="noopener noreferrer">Erik Alejandro Estrada Sauza</a>, someone with the same drive and curiosity as me. I was the robot designer, and he programmed it. Along with the rest of the team, we built it. It was a very fun experience full of learning.
+After high school, I enrolled in the **Saint-Étienne Initial IT Training Cycle (CITISE)** at **Télécom Saint-Étienne**, where I truly began to understand what lies beneath the user interfaces and high-level abstractions. This intensive preparatory program gave me a solid foundation in both theoretical and practical aspects of computing and engineering.
 
-In 2015, thanks to teacher Esteban, I was invited to take an **Autodesk Inventor** course for a week in another city, offered directly by **Autodesk**. At that time, the need arose in the team to get a 3D printer to further improve the functioning of our robot, so we started researching and trying to manufacture our own 3D printer. During that process, we discovered **Kickstarter** and ventured to try to publish a 3D printing project.
+### Theoretical Foundations 📚
 
-## Exploring Crowdfunding 💡
+Throughout the program, I strengthened my understanding of the **mathematics** behind computer science. These concepts were deeply intertwined with the **physics** I studied which later helped me grasp the physical principles behind electronic components and signal processing.
 
-We discovered that in Mexico there was **_Fondeadora_**, a platform similar to Kickstarter. Coincidentally, both platforms were about to merge and, as we had a draft project on Kickstarter, we were invited to the merger event between Fondeadora and Kickstarter. Additionally, we participated in the _<a href="https://www.kickstarter.com/projects/willburgm/100-kickstarter-dreams-the-voice-of-100-creators#react-campaign" target="_blank" rel="noopener noreferrer">Make/100 Kickstarter Dreams - The Voice of 100 Creators</a>_ project, an e-book with a compilation of 100 creators sharing their experience and knowledge gained in their campaigns. There I appeared representing my team as one of the 100 creators.
+### Electronics, Embedded Systems and Networks ⚡
 
-## My First Steps in TEDx Events 🎤
+One of the most important parts of CITISE was diving into **electronics**, **embedded programming** and **networks**. I learned how to work with **microcontrollers**, write low-level code in **C**, and manipulate sensors to build interactive systems.
 
-I was approximately 14 years old when I discovered **TED** talks. I instantly became a fan and, since then, I wanted to attend a TED event, give a talk, or even be part of the organizing team. In 2018, I met a good friend, <a href="https://www.ted.com/profiles/7487162/" target="_blank" rel="noopener noreferrer">Octavio Rojas Xicali</a>, who gave me the opportunity to participate in my first **TEDx** event. I helped with the development of the event's website and with other organizational tasks. It was an incredible experience that consolidated my love for TED and my desire to contribute to spreading ideas.
+As we progressed, I explored more complex computer science topics. I learned the fundamentals of **computer networks**, both in theory and in practice, which opened my eyes to the invisible infrastructure behind the web and modern communication systems.
 
-Thanks to the people I met in that TEDx experience, I got some of my first clients, some of whom continue working with me to this day. Since then, I've dedicated myself to web development, while also carrying out small projects and organizing events.
+### Applied Projects and Real-World Experience 💡
 
-## We Organize Events 🚀
+CITISE placed a strong emphasis on **projects**, where I got to apply what I was learning in a collaborative setting. Some of the highlights included:
 
-Between 2018 and 2019, I had the fortune to be a sponsor and collaborate in organizing:
+- A **bibliographic research project** on **the formation of the green ray**, which taught me how to dig deep into technical literature.
+- A full **C# software project**, which taught me how to manage a codebase, structure an application, and collaborate with others. In a group of three, we developed a **Spotify playlist analyzer** that could analyze and visualize the characteristics of playlists, such as genre distribution, tempo, and more.
+- Finally, I completed a **professional internship**, where I had the opportunity to put my skills into practice in a real-world environment. I worked on a project to develop a **web application** to command a 3-axis sample-holder for a **measurement and control system for production lines**.
 
-- **<a href="https://www.ted.com/tedx/events/25335" target="_blank" rel="noopener noreferrer">TEDxPalmitas Transform Your Walls</a>** | 2018
-- **<a href="https://nights.talent-network.org/ediciones-anteriores/#" target="_blank" rel="noopener noreferrer">Talent Nights Hidalgo, Second Edition</a>** | 2018
-- **<a href="https://www.talent-network.org/comunidades/comunidades-centro/pachuca-startup-weekend/" target="_blank" rel="noopener noreferrer">Startup Weekend Pachuca Social Innovation</a>** | 2018
-- **<a href="https://www.talent-network.org/comunidades/comunidades-centro/pachuca-startup-weekend/" target="_blank" rel="noopener noreferrer">Techstars Global Startup Weekend Sustainable Revolution Pachuca</a>** | 2019
-- **<a href="https://www.ted.com/tedx/events/34332" target="_blank" rel="noopener noreferrer">TEDxPalmitas Winds of Change</a>** | 2019
+## Becoming a DevOps Engineer 🚀
 
-## Creating Impact with Technology 🌍
+In 2022, I graduated from CITISE and joined **Polytech Montpellier** to pursue an **Engineering degree** with a specialization in **Development and Operations (DO)**. This 3-year program combines academic learning with real-world experience through an **apprenticeship format**, allowing me to work in a company for half of my time while studying.
 
-<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/6MlhVoqGWlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+### Learning by Doing 🛠️
 
-In 2020, with the COVID-19 pandemic, I observed the need in some local medical centers and decided, along with a group of friends including <a href="https://www.linkedin.com/in/mmayradiga/"  target="_blank" rel="noopener noreferrer">Mayra Diaz</a>, to contribute our grain of sand by printing and donating 3D face shields. Little by little, the project grew and more people joined. Thus was born <a href="https://sdgactionawards.org/homemakersmexico/"  target="_blank" rel="noopener noreferrer">Hope Makers México</a>.
+The DO program is strongly project-based and designed to mirror industry practices. From the start, I was immersed in team-oriented projects covering the entire **DevOps lifecycle**: from **design**, **development**, and **testing**, to **integration**, **deployment**, **monitoring**, **scaling**, and **evolution** of applications — both **on-premises** and in the **cloud**.
 
-In 2021, together with another great friend, Guillermo Mora, we created <a href="https://devs.tizayocan.com/"  target="_blank" rel="noopener noreferrer">Devs_Tiza</a>, a community for developers, designers, and technology enthusiasts. Our goal is to organize events, workshops, and mentoring to strengthen the local technology ecosystem.
+### Immersed in Industry 🏢
 
-## Sharing Knowledge 🧠
+As an **apprentice**, I alternated between **two weeks in the company** and **two weeks at school**, applying what I learned in a real DevOps team. This rhythm helps me stay aligned with the evolving needs of the industry, taking part in both **short-term tasks** and **long-term strategic projects**.
 
-I've always liked **sharing my knowledge**. I often give small courses or mentoring to friends, students, or companies. When questions arise from them is when I learn the most, because sometimes these questions may seem simple and the answers are something we take for granted, but perhaps we don't fully understand why it is so. This pushes us to:
+### Professional Exposure and Events 🌍
 
-- Deepen our understanding of concepts
-- Understand them better
-- Transform them into something that can be taught clearly and practically
+Throughout the program, I had opportunities to attend conferences such as **KubeCon Europe** in London, as well as national tech events in **Marseille**, **Montpellier** and beyond.
 
-> Grounding knowledge is, for me, the bridge between knowing and teaching.
+We are also encouraged to take part in **hackathons**, and prepare for certifications like the **CKA (Certified Kubernetes Administrator)**.
 
-### Programming Mentoring 💻
+## International Experience 🌎
 
-From 2021 to the present, I have closely guided more than 15 high school students in the programming career. Taking into account that they are starting their education, when they reach the point of understanding how web pages are made, they begin with the most basic:
+In 2025, I had the incredible opportunity to work as an intern at **SDU** in **Denmark**. This experience allowed me to immerse myself in a different culture, learn from a new team, and apply my skills in an international context. I worked on an **AI** focused project, where I collaborated with colleagues from diverse backgrounds, to develop a new LLM (Large Language Model) application that could be used to detect and help as a personal assistant for people with breast cancer.
 
-1. HTML
-2. CSS
-3. JavaScript (fundamentals)
+## Event Organization 🎉
 
-I have tried to teach them this in the way I would have liked to learn it at the time, obtaining excellent results, as concepts that weren't clear to them in school could be understood and applied following this different approach.
+In 2024–2025, I had the opportunity to **lead the organization of the PolyCloud Montpellier** as the **president of the student association** behind the event. It was an incredibly rewarding experience where I worked closely with my classmates to bring together students, professionals, and cloud computing enthusiasts for a full day of knowledge sharing and networking.
 
-### Educational Content on YouTube 📹
+From the ground up, we planned the entire event — inviting speakers from various companies and universities, securing sponsors, and handling all logistical aspects. This experience allowed me to put my **project management and organizational skills** into practice while building meaningful connections within the tech and cloud ecosystem.
 
-Many of them were especially interested in frontend and wanted to better understand and master CSS. Therefore, I started creating small videos that I uploaded to my <a href="https://www.youtube.com/@Lightdev" target="_blank" rel="noopener noreferrer">YouTube channel</a> privately so they could consult them when needed.
-
-In 2024, I recorded some <a href="https://www.frontendmentor.io/" target="_blank" rel="noopener noreferrer">FrontEndMentor</a> challenges with better quality and published them on my channel. Currently, I share these resources with people I know who are interested in the topic and want to learn by watching how it's put into practice.
-
-Although there are few videos, I really enjoyed the process. Due to time limitations, I haven't been able to record more, as they require a lot of dedication, but I'm sure that **I'll soon be publishing new content**.
-
-### Some of My Videos 🎬
-
-Here I share some of those videos I've created to help others learn web development. Each one addresses different challenges and techniques that can be useful for those who are starting in the frontend world.
-
-<div className="grid grid-cols-2 grid-rows-1 gap-4">
-    <a href="https://www.youtube.com/watch?v=3c_I0z7zWA4" target="_blank" class="w-full aspect-video  rounded-lg overflow-hidden"> <img src="https://i.ytimg.com/vi/3c_I0z7zWA4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlyIf_1XClnSkZvhjsDHVO1fNpdw"> </a>
-     <a href="https://www.youtube.com/watch?v=1q7YTgCgYEM&t " target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/1q7YTgCgYEM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADBY3y6quLEnjFya4a1Goo6h5_2w"></img></a>
-    <a  href="https://www.youtube.com/watch?v=PYMEWsxiu5A&t" target="_blank" class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/PYMEWsxiu5A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAS2t0vxEufiWoxqwRRq8qIxRvICw"></img></a>
-    <a href="https://www.youtube.com/watch?v=vbefk8HFEzc&t" target="_blank"  class="w-full aspect-video rounded-lg overflow-hidden"><img src="https://i.ytimg.com/vi/vbefk8HFEzc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDaxgQ4OBeCsn-KMbJXaZK_wJh9GQ"></img></a>
-</div>
-
-## What's Next... 🚀
-
-In 2023, **Proyecto Tizayocan** was born, an initiative that seeks to apply technology to improve education, urban management, and connectivity in the municipality. This project is still in development, and we are gathering more collaborators to continue advancing.
-
-At the end of 2024, after years working in the city council as **_Software Development Coordinator_**, and seeing the technological deficiencies of some municipalities, **StellarGov** emerges, a web components framework with Tailwind to help developers of small governments create fast and quality websites.
-
-## A Bit More About Me ☕
-
-Today, in 2025, I continue working as **_Software Development Coordinator_** in my municipality, collaborating with my usual clients and launching projects. I love creating things, experimenting with new ideas, and organizing events. I live with the _maker_ spirit: learning, experimenting, and sometimes causing a bit of chaos. But well, everything is forgiven if there's music and coffee involved. ☕🎶
-
-Oh! And I'm an expert at preparing coffee. Seriously, whether it's to start the day or for a creative session, I have the perfect recipe. I'm also pretty good at board games, so if you ever need a partner for a game night, I'm your person! 🎲
-
-I'm **Fernando Aldair López Ponce**, and I thank you for reading this.
+I'm **Sarah Théoulle**, and I thank you for reading this.
 
 ## Let's Create Amazing Things! 🚀
