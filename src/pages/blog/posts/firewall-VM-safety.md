@@ -133,12 +133,12 @@ sudo tail -f /var/log/syslog
 
 ---
 
-## 5. 🚫 Bloquer les requêtes contenant le mot "porn"
+## 5. 🚫 Bloquer les requêtes contenant le mot "lamp"
 
 Fonctionne uniquement avec du **trafic HTTP (non-HTTPS)** :
 
 ```bash
-sudo iptables -A INPUT -p tcp --dport 80 -m string --string "porn" --algo bm -j DROP
+sudo iptables -A INPUT -p tcp --dport 80 -m string --string "lamp" --algo bm -j DROP
 
 ```
 
@@ -199,8 +199,8 @@ iptables -t nat -A PREROUTING -p tcp --dport 8000 -j REDIRECT --to-port 8080
 # Log des accès sur le port 80
 iptables -A INPUT -p tcp --dport 80 -j LOG --log-prefix "HTTP ACCESS: "
 
-# Bloquer les requêtes contenant "porn"
-iptables -A INPUT -p tcp --dport 80 -m string --string "porn" --algo bm -j DROP
+# Bloquer les requêtes contenant "lamp"
+iptables -A INPUT -p tcp --dport 80 -m string --string "lamp" --algo bm -j DROP
 
 # Sauvegarde
 netfilter-persistent save
@@ -291,13 +291,13 @@ Chain POSTROUTING (policy ACCEPT 0 packets, 0 bytes)
 
 Ping le [localhost:8000](http://localhost:8000) et on a bien le serveur python du 8080 qui répond
 
-## Requête porn
+## Requête lamp
 
 ```yaml
- curl -v "http://192.168.122.242/porn"
+ curl -v "http://192.168.122.242/lamp"
 *   Trying 192.168.122.242:80...
 * Connected to 192.168.122.242 (192.168.122.242) port 80
-> GET /porn HTTP/1.1
+> GET /lamp HTTP/1.1
 > Host: 192.168.122.242
 > User-Agent: curl/8.9.1
 > Accept: */*
@@ -347,7 +347,7 @@ ubuntu@vps-67b06a10:~$ curl -v "http://192.168.122.242"
 * shutting down connection #0
 ```
 
-Si on a un porn la requête est bien bloquée
+Si on a un lamp la requête est bien bloquée
 
 ```yaml
 sudo iptables -L INPUT -v -n --line-numbers
@@ -356,5 +356,5 @@ num   pkts bytes target     prot opt in     out     source               destina
 1       62  5208 ACCEPT     1    --  *      *       0.0.0.0/0            0.0.0.0/0            icmptype 8 limit: avg 30/min burst 5
 2       52  4368 DROP       1    --  *      *       0.0.0.0/0            0.0.0.0/0            icmptype 8
 3       38  3722 LOG        6    --  *      *       0.0.0.0/0            0.0.0.0/0            tcp dpt:80 LOG flags 0 level 4 prefix "HTTP ACCESS: "
-4       19  2546 DROP       6    --  *      *       0.0.0.0/0            0.0.0.0/0            tcp dpt:80 STRING match  "porn" ALGO name bm
+4       19  2546 DROP       6    --  *      *       0.0.0.0/0            0.0.0.0/0            tcp dpt:80 STRING match  "lamp" ALGO name bm
 ```
