@@ -8,13 +8,11 @@ image:
   alt: "Photo of Sarah THEOULLE (Light) for the blog"
 ---
 
-Computers always fascinated me, and I remember being in awe of the idea of creating something from scratch. My journey in technology has been a mix of curiosity, learning, and a lot of experimentation. Here’s a bit about my story.
-
 ## My Beginnings in Programming 🖥️
 
 In 2018, I entered high school and decided to get computer and digital sciences as an option. This introduction to programming was my first contact with the world of technology. With the help of my teacher, I learned the basics of **Python** and **C**. We created small projects like mathematical representations and a simple game.
 
-The following year I chose Digital and Computer Sciences as my major and continued learning programming. I started creating small projects, such as a **Sudoku solver** and a **crypographic solver**. I also learned about **algorithms**, **data structures** and **networks**.
+The following year I chose Digital and Computer Sciences as my major and continued learning programming. I started creating small projects, such as a **Sudoku solver** and a **crypographic decoder**. I also learned about **algorithms**, **data structures** and **networks**.
 
 ## Deep Dive into the Low Levels 🤖
 
@@ -54,7 +52,7 @@ As an **apprentice**, I alternated between **two weeks in the company** and **tw
 
 Throughout the program, I had opportunities to attend conferences such as **KubeCon Europe** in London, as well as national tech events in **Marseille**, **Montpellier** and beyond.
 
-We are also encouraged to take part in **hackathons**, and prepare for certifications like the **CKA (Certified Kubernetes Administrator)**.
+I also took part in **hackathons**, and I am currently preparing myself for the **CKA (Certified Kubernetes Administrator)** certification.
 
 ## International Experience 🌎
 
@@ -65,6 +63,8 @@ In 2025, I had the incredible opportunity to work as an intern at **SDU** in **D
 In 2024–2025, I had the opportunity to **lead the organization of the PolyCloud Montpellier** as the **president of the student association** behind the event. It was an incredibly rewarding experience where I worked closely with my classmates to bring together students, professionals, and cloud computing enthusiasts for a full day of knowledge sharing and networking.
 
 From the ground up, we planned the entire event — inviting speakers from various companies and universities, securing sponsors, and handling all logistical aspects. This experience allowed me to put my **project management and organizational skills** into practice while building meaningful connections within the tech and cloud ecosystem.
+
+Find more about the event on the [PolyCloud Montpellier website](https://polycloud.fr).
 
 I'm **Sarah Théoulle**, and I thank you for reading this.
 

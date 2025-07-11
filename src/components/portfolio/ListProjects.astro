@@ -4,6 +4,7 @@ import Heading from "../ui/Heading.astro";
 import { Icon } from "astro-icon/components";
 
 const allPosts = await Astro.glob("../../pages/portfolio/projects/*.md");
+console.log(allPosts);
 
 // Sort by descending date (most recent first)
 allPosts.sort(
@@ -19,7 +20,7 @@ allPosts.sort(
 >
   <div class="mx-auto max-w-7xl py-8">
     <div class="flex gap-4 items-center justify-center text-center">
-      <Icon class="text-3xl dark:text-white text-blacktext" name="code" />
+      <Icon class="text-3xl dark:text-white text-blacktext max-w-8 max-h-8" name="code" />
       <Heading text="Projects" textGradient="Completed" level={2} />
     </div>
 
@@ -32,7 +33,7 @@ allPosts.sort(
       >
       <br /> Here I show you some of the <b
         class="bg-linear-to-r from-riptide-500 to-purple-500 dark:from-riptide-300 dark:to-purple-200 text-transparent bg-clip-text"
-        >developments</b
+        >projects</b
       > I've worked on, applying technology, design, and lots of creativity.
       <b
         class="bg-linear-to-r from-riptide-500 to-purple-500 dark:from-riptide-300 dark:to-purple-200 text-transparent bg-clip-text"

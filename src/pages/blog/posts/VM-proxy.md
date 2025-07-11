@@ -8,7 +8,7 @@ image:
   alt: "Screenshot of NeonMint, a modern and minimalist web template built with Astro and TailwindCSS. It displays various sections such as blog, portfolio, work experience, and Markdown guide, in both light and dark modes with mint green accents."
 pubDate: 2025-04-04
 tags: ["documentation", "VM", "proxy", "haproxy", "squid"]
-languages: ["bash", "markdown", "yaml", "html"]
+languages: ["bash", "markdown", "yaml"]
 ---
 
 Deployer un HA proxy avec deux backends (on change de backend au F5)
