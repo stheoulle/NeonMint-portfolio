@@ -3,7 +3,6 @@
 
 ![neonmint](https://github.com/user-attachments/assets/ae539704-2292-492f-882c-c90595b34717)
 
-
 ## 🎯 Overview
 
 **NeonMint** is a minimalist and modern template designed for developers and digital creatives. Its dark-toned aesthetic with mint green accents offers a clean, elegant, and functional visual experience, ideal for portfolios, dashboards, or tech landing pages.
@@ -100,34 +99,41 @@
 1. **📦 Installation**
 
    ### 🚀**Astro Installation**
+
    ```bash
    npm create astro@latest -- --template Light/neonmint
    ```
+
    or
+
    ### 🔧**Manual Installation**
-   
+
    #### Clone Repository
+
    ```bash
    git clone https://github.com/Light/NeonMint.git
    ```
+
    #### Install Dependencies
+
    ```bash
    npm install
    ```
 
-  
+2. **⚡ Development**
 
-3. **⚡ Development**
    ```bash
    npm run dev
    ```
 
-4. **🏗️ Build**
+3. **🏗️ Build**
+
    ```bash
    npm run build
    ```
 
-5. **👀 Preview**
+4. **👀 Preview**
+
    ```bash
    npm run preview
    ```
@@ -222,4 +228,3 @@ The site is configured for deployment on Vercel, but can be deployed to any stat
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
