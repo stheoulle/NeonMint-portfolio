@@ -1,7 +1,7 @@
 {
   "title": "CSPCL",
   "organization": "dtn-mtp",
-  "description": "A lightweight convergence layer that bridges Bundle Protocol 7 (BP7) and CubeSat Space Protocol (CSP), enabling Delay/Disruption Tolerant Networking (DTN) over space-grade radio links.",
+  "description": "A lightweight convergence layer that bridges Bundle Protocol 7 (BP7) and CubeSat Space Protocol (CSP), enabling Delay/Disruption Tolerant Networking (DTN) over space-grade radio links. \n I contribute actively to the development of this project, implementing core functionalities and optimizing code.",
   "date": "2026 - Present",
   "repoUrl": "https://github.com/DTN-MTP/cspcl",
   "techs": ["C"],

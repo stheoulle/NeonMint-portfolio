@@ -1,0 +1,9 @@
+{
+  "title": "seal-ci",
+  "organization": "seal-ci",
+  "description": "Continuous Integration (CI) system built using Rust and designed with a microservices architecture.",
+  "repoUrl": "https://github.com/dev-sys-do/sealci",
+  "date": "2023 - 2025",
+  "techs": ["Rust", "Virtualization"],
+  "tags": ["rust", "virtualization"]
+}
